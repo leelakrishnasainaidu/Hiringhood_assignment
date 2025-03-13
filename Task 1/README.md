@@ -41,6 +41,10 @@ How to Customize
 • Use script.js to add more interactive elements.
 
 
+Deployed Link
+
+Access the live version here: https://responsivelandingweb.netlify.app
+
 Contact
 
 For any questions or suggestions, feel free to reach out at naiduleelakrishnasai@gmail.com
