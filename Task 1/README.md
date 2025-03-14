@@ -1,50 +1,52 @@
-Responsive Landing Page
+# Responsive Login Form
 
-Overview
+## Overview
 
-This project is a Responsive Landing Page designed using HTML, CSS, and JavaScript. It provides a visually appealing and user-friendly interface that adapts to different screen sizes.
+This project is a **Responsive Landing Page** designed using **HTML, CSS, and JavaScript**. It provides a visually appealing and user-friendly interface that adapts to different screen sizes.
 
-Features
+## Features
 
-• Fully Responsive: Works seamlessly across desktops, tablets, and mobile devices.
 
-• Modern UI/UX: Clean and attractive design.
+• **Fully Responsive:** Works seamlessly across desktops, tablets, and mobile devices.
 
-• Navigation Bar: Includes a smooth scrolling navigation menu.
+• **Modern UI/UX:** Clean and attractive design.
 
-• Call-to-Action (CTA) Buttons: Encourages user engagement.
+• **Navigation Bar:** Includes a smooth scrolling navigation menu.
 
-• Animations & Transitions: Enhances the user experience with smooth animations.
+• **Call-to-Action (CTA) Buttons:** Encourages user engagement.
+
+• **Animations & Transitions:** Enhances the user experience with smooth animations.
 
 Technologies Used
 
-• HTML5: Structure and layout.
+• **HTML5:** Structure and layout.
 
-• CSS3: Styling, animations, and responsive design.
+• **CSS3:** Styling, animations, and responsive design.
 
-• JavaScript: Adds interactivity.
+• **JavaScript:** Adds interactivity.
 
-Installation & Usage
+## Installation & Usage
 
 1. Clone this repository:  https://github.com/leelakrishnasainaidu/Hiringhood_assignment.git
 
 2. Navigate to the project directory: cd Task 1
 
-3. Open index.html in your browser or use Live Server in VS Code.
+3. Open `index.html` in your browser or use **Live Server** in **VS Code**.
 
-How to Customize
+## How to Customize
 
-• Modify index.html to change the content.
+• **Modify `index.html`** to change the content.
 
-• Edit styles.css to update colors, fonts, or layout.
+• **Edit `styles.css`** to update colors, fonts, or layout.
 
-• Use script.js to add more interactive elements.
+• **Use `script.js`** to add more interactive elements.
 
 
-Deployed Link
+
+## Contact
 
 Access the live version here: https://responsivelandingweb.netlify.app
 
 Contact
 
-For any questions or suggestions, feel free to reach out at naiduleelakrishnasai@gmail.com
+For any questions or suggestions, feel free to reach out at **naiduleelakrishnasai@gmail.com**.
