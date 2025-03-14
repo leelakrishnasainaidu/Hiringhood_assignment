@@ -43,13 +43,13 @@ This project is a **Single-Page Application (SPA) with Data Fetching** built usi
 ## How to Customize
 
 - **Modify `App.jsx`** to update the main layout or routes.
-- **Go to pages/** and then ****data/** folder to find Data.jsx and Data.css for handling API fetching and UI styling.
+- **Go to data/** folder to find **Data.jsx** and **Data.css** for handling API fetching and UI styling.
 - **Update `data.jsx`** to modify API endpoints or data processing.
 - **Update `data.css`** to edit design elements.
 
 ## Deployed Link
 
-Access the live version here: [Live Demo](https://spadatafetching.netlify.app)
+Access the live version here: [Live Demo](https://moviedbexplorer.netlify.app)
 
 ## Contact
 
