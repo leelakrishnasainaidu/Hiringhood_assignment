@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Data from "./Data/Data"; 
+import Data from "./Pages/Data/Data"; 
 const App = () => {
   return (
     <Router>
