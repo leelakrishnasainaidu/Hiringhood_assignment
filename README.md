@@ -30,6 +30,9 @@
 ### Installation & Usage
 For installation and usage instructions, please check the README file of each task.
 
+**Reference Document**
+For a overview of the tasks, refer to the document: [Hiringhood Assignment Details](https://docs.google.com/document/d/1Bt5pqVfroV5tCw8F6NzQJujtsQRbck8S-b2zXLa1A_U/edit?usp=sharing)
+
 ## Contact
 For any questions or suggestions, feel free to reach out at **naiduleelakrishnasai@gmail.com**.
 
