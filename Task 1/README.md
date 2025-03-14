@@ -45,7 +45,7 @@ Technologies Used
 
 ## Contact
 
-Access the live version here: https://responsivelandingweb.netlify.app
+Access the live version here: [Live Demo](https://responsivelandingweb.netlify.app)
 
 Contact
 
